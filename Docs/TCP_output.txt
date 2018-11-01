@@ -1,0 +1,60 @@
+[System Process]	0	TCP	desktop-9ppefqv.localdomain	52232	64.4.54.254	https	TIME_WAIT										
+[System Process]	0	TCP	desktop-9ppefqv.localdomain	52243	den03s10-in-f35.1e100.net	https	TIME_WAIT										
+[System Process]	0	TCP	desktop-9ppefqv.localdomain	52256	den03s10-in-f42.1e100.net	https	TIME_WAIT										
+chrome.exe	5328	TCP	desktop-9ppefqv.localdomain	52234	lb-192-30-253-124-iad.github.com	https	ESTABLISHED	1	35	1	31						
+chrome.exe	5328	UDP	DESKTOP-9PPEFQV	5353	*	*											
+chrome.exe	5328	UDP	DESKTOP-9PPEFQV	5353	*	*											
+chrome.exe	5328	UDP	DESKTOP-9PPEFQV	5353	*	*											
+chrome.exe	5328	UDPV6	desktop-9ppefqv	5353	*	*											
+chrome.exe	5328	UDPV6	desktop-9ppefqv	5353	*	*											
+chrome.exe	5328	UDP	desktop-9ppefqv.localdomain	56811	*	*		4	692								
+gpg-agent.exe	3188	TCP	DESKTOP-9PPEFQV	51884	DESKTOP-9PPEFQV	0	LISTENING										
+gpg-agent.exe	3188	TCP	DESKTOP-9PPEFQV	51885	DESKTOP-9PPEFQV	0	LISTENING										
+gpg-agent.exe	3188	TCP	DESKTOP-9PPEFQV	51886	DESKTOP-9PPEFQV	0	LISTENING										
+gpg-agent.exe	3188	TCP	DESKTOP-9PPEFQV	51887	DESKTOP-9PPEFQV	0	LISTENING										
+kleopatra.exe	5700	TCP	DESKTOP-9PPEFQV	51873	DESKTOP-9PPEFQV	0	LISTENING										
+lsass.exe	620	TCP	DESKTOP-9PPEFQV	49667	DESKTOP-9PPEFQV	0	LISTENING										
+lsass.exe	620	TCPV6	desktop-9ppefqv	49667	desktop-9ppefqv	0	LISTENING										
+SearchUI.exe	3532	TCP	desktop-9ppefqv.localdomain	52240	204.79.197.220	https	CLOSE_WAIT										
+SearchUI.exe	3532	TCP	desktop-9ppefqv.localdomain	52241	204.79.197.220	https	CLOSE_WAIT										
+SearchUI.exe	3532	TCP	desktop-9ppefqv.localdomain	52244	204.79.197.220	https	CLOSE_WAIT										
+SearchUI.exe	3532	TCP	desktop-9ppefqv.localdomain	52245	204.79.197.220	https	CLOSE_WAIT										
+SearchUI.exe	3532	TCP	desktop-9ppefqv.localdomain	52246	204.79.197.220	https	CLOSE_WAIT										
+SearchUI.exe	3532	TCP	desktop-9ppefqv.localdomain	52247	13.107.56.254	https	ESTABLISHED										
+SearchUI.exe	3532	TCP	desktop-9ppefqv.localdomain	52248	a23-192-94-43.deploy.static.akamaitechnologies.com	https	CLOSE_WAIT										
+SearchUI.exe	3532	TCP	desktop-9ppefqv.localdomain	52249	server-52-84-25-116.sea32.r.cloudfront.net	https	ESTABLISHED										
+SearchUI.exe	3532	TCP	desktop-9ppefqv.localdomain	52250	a23-5-251-27.deploy.static.akamaitechnologies.com	http	CLOSE_WAIT										
+SearchUI.exe	3532	TCP	desktop-9ppefqv.localdomain	52251	204.79.197.222	https	ESTABLISHED										
+services.exe	612	TCP	DESKTOP-9PPEFQV	49669	DESKTOP-9PPEFQV	0	LISTENING										
+services.exe	612	TCPV6	desktop-9ppefqv	49669	desktop-9ppefqv	0	LISTENING										
+spoolsv.exe	1560	TCP	DESKTOP-9PPEFQV	49666	DESKTOP-9PPEFQV	0	LISTENING										
+spoolsv.exe	1560	TCPV6	desktop-9ppefqv	49666	desktop-9ppefqv	0	LISTENING										
+svchost.exe	848	TCP	DESKTOP-9PPEFQV	epmap	DESKTOP-9PPEFQV	0	LISTENING										
+svchost.exe	1044	TCP	desktop-9ppefqv.localdomain	5040	DESKTOP-9PPEFQV	0	LISTENING										
+svchost.exe	356	TCP	DESKTOP-9PPEFQV	49665	DESKTOP-9PPEFQV	0	LISTENING										
+svchost.exe	816	TCP	DESKTOP-9PPEFQV	49668	DESKTOP-9PPEFQV	0	LISTENING										
+svchost.exe	816	TCP	desktop-9ppefqv.localdomain	49672	13.89.220.65	https	ESTABLISHED										
+svchost.exe	1172	UDP	DESKTOP-9PPEFQV	ssdp	*	*											
+svchost.exe	1172	UDP	desktop-9ppefqv.localdomain	ssdp	*	*											
+svchost.exe	1044	UDP	DESKTOP-9PPEFQV	5050	*	*											
+svchost.exe	1360	UDP	DESKTOP-9PPEFQV	5353	*	*											
+svchost.exe	1360	UDP	DESKTOP-9PPEFQV	llmnr	*	*											
+svchost.exe	816	UDP	DESKTOP-9PPEFQV	50965	*	*											
+svchost.exe	1172	UDP	desktop-9ppefqv.localdomain	63930	*	*											
+svchost.exe	1172	UDP	DESKTOP-9PPEFQV	63931	*	*											
+svchost.exe	848	TCPV6	[0:0:0:0:0:0:0:0]	epmap	[0:0:0:0:0:0:0:0]	0	LISTENING										
+svchost.exe	356	TCPV6	desktop-9ppefqv	49665	desktop-9ppefqv	0	LISTENING										
+svchost.exe	816	TCPV6	desktop-9ppefqv	49668	desktop-9ppefqv	0	LISTENING										
+svchost.exe	1172	UDPV6	[0:0:0:0:0:0:0:1]	1900	*	*											
+svchost.exe	1172	UDPV6	[fe80:0:0:0:1045:65ec:97f3:8e46]	1900	*	*											
+svchost.exe	1360	UDPV6	desktop-9ppefqv	5353	*	*											
+svchost.exe	1360	UDPV6	desktop-9ppefqv	5355	*	*											
+svchost.exe	1172	UDPV6	[fe80:0:0:0:1045:65ec:97f3:8e46]	63928	*	*											
+svchost.exe	1172	UDPV6	[0:0:0:0:0:0:0:1]	63929	*	*											
+System	4	TCP	desktop-9ppefqv.localdomain	netbios-ssn	DESKTOP-9PPEFQV	0	LISTENING										
+System	4	TCP	DESKTOP-9PPEFQV	microsoft-ds	DESKTOP-9PPEFQV	0	LISTENING										
+System	4	UDP	desktop-9ppefqv.localdomain	netbios-ns	*	*		3	150			100		2			
+System	4	UDP	desktop-9ppefqv.localdomain	netbios-dgm	*	*											
+System	4	TCPV6	desktop-9ppefqv	microsoft-ds	desktop-9ppefqv	0	LISTENING										
+wininit.exe	500	TCP	DESKTOP-9PPEFQV	49664	DESKTOP-9PPEFQV	0	LISTENING										
+wininit.exe	500	TCPV6	desktop-9ppefqv	49664	desktop-9ppefqv	0	LISTENING										
